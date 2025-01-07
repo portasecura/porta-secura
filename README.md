@@ -245,24 +245,6 @@ PortaSecura includes robust security measures:
 
 ## Business Model
 
-### Pricing Tiers
-- **Basic**: 100k requests/month, $499/month
-  - Basic filtering
-  - Standard support
-  - Single domain
-
-- **Professional**: 1M requests/month, $1,999/month
-  - Advanced filtering
-  - Priority support
-  - Multi-domain support
-  - Custom filters
-
-- **Enterprise**: Custom volume, Contact for pricing
-  - Dedicated support
-  - Custom integration
-  - SLA guarantees
-  - On-premise option
-
 ### PORTA Token Utility
 - Service Payment
 - Custom Filter Marketplace
