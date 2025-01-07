@@ -276,18 +276,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 - Custom Feature Development
 - Training and Onboarding
 
-### Community Support
-- Documentation: [https://docs.portasecura.io](https://docs.portasecura.io)
-- Email: support@portasecura.io
-- Discord: [PortaSecura Community](https://discord.gg/portasecura)
-- GitHub Issues: Bug reports and feature requests
-
-## Investor Information
-- [Investor Deck](docs/business/pitch_deck.pdf)
-- [Market Analysis](docs/business/market_analysis.md)
-- [Roadmap](docs/business/roadmap.md)
-- [Financial Projections](docs/business/financials.md)
-
 ## License
 This project is licensed under the MIT License with restrictions - see the [LICENSE](LICENSE) file for details.
 
